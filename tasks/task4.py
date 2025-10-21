@@ -2,7 +2,8 @@
 
 def solve():
 # Ниже пишите решение задачи
-    
+    a=str(input())
+    print(a+a+a)
     
 
 
